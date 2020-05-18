@@ -21,14 +21,14 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
+.jekyll-metadata
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
-
+.jekyll-cache
 # End of https://www.gitignore.io/api/macos
 
 # debug file
