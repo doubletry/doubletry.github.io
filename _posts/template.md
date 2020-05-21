@@ -4,7 +4,7 @@ title:      First blog
 subtitle:   起始
 date:       2020-05-18
 author:     AB
-header-img: https://p-o-b.oss-cn-beijing.aliyuncs.com/img/20200521115742.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
     - Blog
